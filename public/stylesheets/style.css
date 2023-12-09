@@ -65,3 +65,17 @@ a {
   font-size: 20px;
   cursor: pointer;
 }
+
+table {
+  margin: 20px auto;
+  border-collapse: collapse;
+  border: 1px solid royalblue;
+  width: 800px;
+}
+
+th,
+td {
+  border-radius: 6px;
+  border: 1px solid royalblue;
+  padding: 10px 20px;
+}
